@@ -13,5 +13,7 @@
     "0.2.0",
     "0.2.1"
   ],
-  "yanked_versions": {}
+  "yanked_versions": {
+    "0.2.1": "broken release: MODULE.bazel declared 0.2.0 (release.sh version-check bug, fixed in hello-build); use 0.2.2"
+  }
 }
