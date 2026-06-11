@@ -9,6 +9,8 @@
   "repository": [
     "github:altdansalt/hello-build"
   ],
-  "versions": [],
+  "versions": [
+    "0.2.0"
+  ],
   "yanked_versions": {}
 }
