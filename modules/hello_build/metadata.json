@@ -1,0 +1,14 @@
+{
+  "homepage": "https://github.com/altdansalt/hello-build",
+  "maintainers": [
+    {
+      "name": "altdansalt",
+      "github": "altdansalt"
+    }
+  ],
+  "repository": [
+    "github:altdansalt/hello-build"
+  ],
+  "versions": [],
+  "yanked_versions": {}
+}
